@@ -11,7 +11,10 @@
                 <th>Author</th>
                 <th>Email</th>
                 <th>Body</th>
-                <th>Link</th>
+                <th>Post Link</th>
+                <th>Reply Link</th>
+                <th>IsActive</th>
+                <th>Delete</th>
             </tr>
         </thead>
         <tbody>
